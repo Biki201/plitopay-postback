@@ -1,0 +1,16 @@
+{
+  "name": "plitopay-postback-server",
+  "version": "1.0.0",
+  "description": "TimeWall postback handler for PlitoPay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^12.0.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
